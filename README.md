@@ -1,6 +1,6 @@
 # webcam-drawer | WIP
 
-Little side project that allows you to draw on a web canvas via your webcam + index finger - for those who don't have touchscreens and are too lazy to draw on a tablet and transfer it.
+Little side project that allows you to draw on a web canvas via your webcam + index finger - for those who _don't have touchscreen PCs_ and are too lazy to draw on a tablet and transfer it.
 Simply pinch your thumb and index finger to draw and separate to stop. Semi-transparent webcam feed in the background for drawing reference.
 
 Current:
